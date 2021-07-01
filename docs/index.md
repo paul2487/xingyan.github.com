@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## 歡迎來到我的網站
+很高興認識你
 
-You can use the [editor on GitHub](https://github.com/XingYanTW/xingyantw.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 目前學歷
 
-### Markdown
+目前國二
+國小畢業
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 喜愛
+* 遊戲類
+  * Minecraft
+  * Osu!
+  * CS:GO
+* 影音類
+  * 日本動漫 
+* 生活
+    * 玩遊戲
+    * 直播 
 
-```markdown
-Syntax highlighted code block
+### Minecraft作品
+#### Linklore:
+一個可讓DiscordSRV驗證後給予身分組的插件
+[點我前往網址](https://github.com/XingYanTW/LinkRole)
+#### Announce:
+公告插件 加上了最後一次公告的站位符
+[點我前往網址](https://github.com/XingYanTW/Announce)
+~~還有很多只是懶得放~~
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XingYanTW/xingyantw.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 其他網頁
+[Youtube](https://www.youtube.com/channel/UCPWDEz4L5bphm_9WLzqTp-Q)
+[Twitch](https://www.twitch.tv/xingyantw)
+[Twitter](https://twitter.com/tw_xing)
+[Github](https://github.com/XingYanTW)
