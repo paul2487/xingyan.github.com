@@ -18,6 +18,36 @@ body, html {
     width: 100%;
 }
 
+#servername {
+    color: white;
+    z-index: 2;
+    text-align: center;
+    position: relative;
+    top: 300px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: xxx-large;
+    animation-name: up1;
+    animation-duration: 3s;
+}
+
+#servername2{
+    color: white;
+    z-index: 2;
+    text-align: center;
+    position: relative;
+    top: 280px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
+    animation-name: up2;
+    animation-duration: 3s;
+}
+
 
 
 #serverip {
@@ -36,14 +66,14 @@ body, html {
     font-weight: bold;
     z-index: 2;
     font-family: 'Open Sans', sans-serif;
+    animation: up3 3s;
 }
 
 #bg {
     height: 100%;
     width: 100%;
     z-index: 1;
-    position: relative;
-    top: -116px;
+    margin-top: -318px;
 }
 
 .topnav {
@@ -119,4 +149,37 @@ body, html {
     margin: 0;
     cursor: pointer;
     font-family: 'Open Sans', sans-serif;
+}
+
+@keyframes up1 {
+     0% {
+         top: 600px;
+         opacity: 0;
+     }
+     100% {
+         top: 300px;
+         opacity: 1;
+     }
+ }
+
+@keyframes up2 {
+    0% {
+        top: 580px;
+        opacity: 0;
+    }
+    100% {
+        top: 280px;
+        opacity: 1;
+    }
+}
+
+@keyframes up3 {
+    0% {
+        top: 650px;
+        opacity: 0;
+    }
+    100% {
+        top: 350px;
+        opacity: 1;
+    }
 }
