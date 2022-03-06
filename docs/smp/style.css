@@ -61,6 +61,40 @@ body, html {
     animation-duration: 3s;
 }
 
+#Online {
+    color: white;
+    z-index: 2;
+    text-align: center;
+    position: relative;
+    top: 280px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
+    animation-name: up2;
+    animation-duration: 3s;
+}
+
+#Onlinecount {
+    color: white;
+    z-index: 2;
+    text-align: center;
+    position: relative;
+    top: 280px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
+    animation-name: up2;
+    animation-duration: 3s;
+}
+
+#Onlinecount , #Onlinecount {
+    display: inline;
+}
+
 
 
 #serverip {
@@ -86,7 +120,7 @@ body, html {
     height: 100%;
     width: 100%;
     z-index: 1;
-    margin-top: -318px;
+    margin-top: -375px;
 }
 
 .topnav {

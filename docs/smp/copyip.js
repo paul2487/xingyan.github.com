@@ -1,7 +1,3 @@
-
-
-
-
 document.getElementById("serverip").addEventListener("click", copyip);
 document.getElementById("serverip").addEventListener("mouseover", showcopy);
 document.getElementById("serverip").addEventListener("mouseleave", showip);
