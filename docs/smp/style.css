@@ -8,9 +8,22 @@ body, html {
 }
 
 
-
 * {
     box-sizing: content-box;
+}
+
+
+#copyright {
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    position: relative;
+    bottom: 64px;
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+    background-color: darkgray;
+    color:white;
 }
 
 .server{
