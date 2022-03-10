@@ -1,0 +1,21 @@
+<html style="background-color: black;">
+<head>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cyberdevelopment.es/BotSentry/verify/custom/jquery.redirect.js"></script>
+</head>
+<body></body>
+<script>
+$.redirect("https://cyberdevelopment.es/BotSentry/verify/index.php",
+{
+"lightMode": "false",
+"messagesTitle": "BotSentry 驗證",
+"messagesVerifyMessage": "點擊來驗證您的IP地址. 驗證後將可在一分鐘左右後加入伺服器.",
+"messagesAlreadyVerified": "你已經被BotSentry驗證了. 如果還是無法加入伺服器, 請等待至少一分鐘再試一次",
+"messagesUnknownIP": "我們不能驗證您的IP地址, 因為我們不知道您的 IP.",
+"messagesStatusSuccessful": "已成功驗證您的 IP。 您將能夠在一分鐘內加入伺服器.",
+"messagesStatusFailedConnection": "無法驗證您的 IP, 與服務器連接時發生錯誤. 刷新頁面再試一次.",
+"messagesStatusFailedToken": "無法驗證您的 IP, 我們無法驗證令牌.",
+"messagesReverify": "重新驗證"
+}, "POST");
+</script>
+</html>
